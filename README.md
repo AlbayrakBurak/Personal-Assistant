@@ -1,4 +1,4 @@
-# Veys Asistanı
+# Kişisel Asistan
 
 Kişisel çalışma saatlerini ve bütçe yönetimini takip etmek için geliştirilmiş Flutter tabanlı mobil uygulama.
 
