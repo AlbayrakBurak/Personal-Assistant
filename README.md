@@ -38,17 +38,16 @@ Ekran Alıntıları:
 ### Ekran Alıntıları
 
 <a href="https://github.com/user-attachments/assets/707a6a6f-65d8-4dd4-b02e-33eacbe805e9">
-    <img src="https://github.com/user-attachments/assets/707a6a6f-65d8-4dd4-b02e-33eacbe805e9" width="300">
+    <img src="https://github.com/user-attachments/assets/707a6a6f-65d8-4dd4-b02e-33eacbe805e9" width="200">
 </a>
 
 <a href="https://github.com/user-attachments/assets/82a077a9-f7d9-4c91-9c7b-e083c967a378">
-    <img src="https://github.com/user-attachments/assets/82a077a9-f7d9-4c91-9c7b-e083c967a378" width="300">
+    <img src="https://github.com/user-attachments/assets/82a077a9-f7d9-4c91-9c7b-e083c967a378" width="200">
 </a>
 
 <a href="https://github.com/user-attachments/assets/45e141e5-d1ab-4f5e-8a20-bc2b73fdd688">
-    <img src="https://github.com/user-attachments/assets/45e141e5-d1ab-4f5e-8a20-bc2b73fdd688" width="300">
+    <img src="https://github.com/user-attachments/assets/45e141e5-d1ab-4f5e-8a20-bc2b73fdd688" width="200">
 </a>
 
-[![study_screen](https://github.com/user-attachments/assets/707a6a6f-65d8-4dd4-b02e-33eacbe805e9)](https://github.com/user-attachments/assets/707a6a6f-65d8-4dd4-b02e-33eacbe805e9)
 
 
