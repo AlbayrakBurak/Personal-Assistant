@@ -1,41 +1,41 @@
-# Kişisel Asistan
+# Personal Assistant
 
-Kişisel çalışma saatlerini ve bütçe yönetimini takip etmek için geliştirilmiş Flutter tabanlı mobil uygulama.
+A Flutter-based mobile app designed to track personal working hours and budget management.
 
-## Özellikler
+## Features
 
-### Çalışma Takibi
-- Farklı konular için çalışma alanları oluşturma
-- Günlük çalışma saatlerini kaydetme
-- Her çalışma için notlar ekleme
-- Haftalık ve aylık çalışma istatistikleri
-- Tarih bazlı çalışma geçmişi
+### Work Tracking
+- Create workspaces for different topics
+- Record daily working hours
+- Add notes for each work session
+- Weekly and monthly work statistics
+- Work history by date
 
-### Bütçe Takibi
-- Özelleştirilebilir harcama kategorileri
-- Detaylı harcama kayıtları
+### Budget Tracking
+- Customizable expense categories
+- Detailed expense records
+- Pie chart visualization by category
+- Weekly and monthly expense statistics
+- Filter by date and category
 
-- Kategori bazlı pasta grafik görünümü
-- Haftalık ve aylık harcama istatistikleri
-- Tarih ve kategori bazlı filtreleme
-
-## Teknik Özellikler
+## Technical Features
 
 - Flutter 3.x
 - Material Design 3
-- Yerel veri depolama (SharedPreferences)
-- Responsive tasarım (Farklı ekran boyutlarına uyum)
+- Local data storage (SharedPreferences)
+- Responsive design (Adapts to different screen sizes)
 - Modern UI/UX
 
-## Kurulum
+## Setup
 
-1. Flutter SDK'yı yükleyin
-2. Projeyi klonlayın
-3. Proje Bağımlılıklarını yükleyin
-4. Başlatın
+1. Install Flutter SDK
+2. Clone the project
+3. Install project dependencies
+4. Run the app
 
-Ekran Alıntıları:
-### Ekran Alıntıları
+## Screenshots
+
+### Screenshots
 
 <a href="https://github.com/user-attachments/assets/707a6a6f-65d8-4dd4-b02e-33eacbe805e9">
     <img src="https://github.com/user-attachments/assets/707a6a6f-65d8-4dd4-b02e-33eacbe805e9" width="200">
@@ -48,8 +48,3 @@ Ekran Alıntıları:
 <a href="https://github.com/user-attachments/assets/45e141e5-d1ab-4f5e-8a20-bc2b73fdd688">
     <img src="https://github.com/user-attachments/assets/45e141e5-d1ab-4f5e-8a20-bc2b73fdd688" width="200">
 </a>
-
-
-
-
-
