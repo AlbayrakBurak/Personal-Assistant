@@ -49,5 +49,12 @@ Ekran Alıntıları:
     <img src="https://github.com/user-attachments/assets/45e141e5-d1ab-4f5e-8a20-bc2b73fdd688" width="200">
 </a>
 
+<details>
+  <summary><img src="https://github.com/user-attachments/assets/707a6a6f-65d8-4dd4-b02e-33eacbe805e9" width="200"></summary>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/707a6a6f-65d8-4dd4-b02e-33eacbe805e9" width="400">
+  </p>
+</details>
+
 
 
