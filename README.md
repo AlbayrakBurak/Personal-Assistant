@@ -14,6 +14,7 @@ Kişisel çalışma saatlerini ve bütçe yönetimini takip etmek için gelişti
 ### Bütçe Takibi
 - Özelleştirilebilir harcama kategorileri
 - Detaylı harcama kayıtları
+
 - Kategori bazlı pasta grafik görünümü
 - Haftalık ve aylık harcama istatistikleri
 - Tarih ve kategori bazlı filtreleme
@@ -32,3 +33,10 @@ Kişisel çalışma saatlerini ve bütçe yönetimini takip etmek için gelişti
 2. Projeyi klonlayın
 3. Proje Bağımlılıklarını yükleyin
 4. Başlatın
+
+Ekran Alıntıları:
+![study_screen](https://github.com/user-attachments/assets/707a6a6f-65d8-4dd4-b02e-33eacbe805e9)
+![home_screen](https://github.com/user-attachments/assets/82a077a9-f7d9-4c91-9c7b-e083c967a378)
+![budget_screen](https://github.com/user-attachments/assets/45e141e5-d1ab-4f5e-8a20-bc2b73fdd688)
+
+
