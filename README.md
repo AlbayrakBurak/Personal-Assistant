@@ -35,7 +35,6 @@ A Flutter-based mobile app designed to track personal working hours and budget m
 
 ## Screenshots
 
-### Screenshots
 
 <a href="https://github.com/user-attachments/assets/707a6a6f-65d8-4dd4-b02e-33eacbe805e9">
     <img src="https://github.com/user-attachments/assets/707a6a6f-65d8-4dd4-b02e-33eacbe805e9" width="200">
