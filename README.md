@@ -36,14 +36,17 @@ A Flutter-based mobile app designed to track personal working hours and budget m
 ## Screenshots
 
 
-<a href="https://github.com/user-attachments/assets/707a6a6f-65d8-4dd4-b02e-33eacbe805e9">
-    <img src="https://github.com/user-attachments/assets/707a6a6f-65d8-4dd4-b02e-33eacbe805e9" width="200">
+<a href="https://github.com/user-attachments/assets/b27ddde5-93a5-48cf-a015-95f3027572fa">
+    <img src="https://github.com/user-attachments/assets/b27ddde5-93a5-48cf-a015-95f3027572fa" width="200">
 </a>
 
-<a href="https://github.com/user-attachments/assets/82a077a9-f7d9-4c91-9c7b-e083c967a378">
-    <img src="https://github.com/user-attachments/assets/82a077a9-f7d9-4c91-9c7b-e083c967a378" width="200">
+<a href="https://github.com/user-attachments/assets/40f057ad-b04b-4a01-99d3-2adf2023fe4c">
+    <img src="https://github.com/user-attachments/assets/40f057ad-b04b-4a01-99d3-2adf2023fe4c" width="200">
 </a>
 
-<a href="https://github.com/user-attachments/assets/45e141e5-d1ab-4f5e-8a20-bc2b73fdd688">
-    <img src="https://github.com/user-attachments/assets/45e141e5-d1ab-4f5e-8a20-bc2b73fdd688" width="200">
+<a href="https://github.com/user-attachments/assets/089f62f4-2f44-4916-bf14-f3a0f58bafc8">
+    <img src="https://github.com/user-attachments/assets/089f62f4-2f44-4916-bf14-f3a0f58bafc8" width="200">
 </a>
+
+
+
